@@ -1,0 +1,37 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+    box-sizing: border-box;  
+    
+}
+body {
+    background-color:rgb(36, 24, 24) ;
+}
+h1 {
+    background: linear-gradient(45deg,rgba(174, 32, 18,0.7)80%, rgba(186, 61, 3,0.7)), url(./images/gastromia.jpg);
+    padding: 50px;
+    text-align: center;
+    color: #fff;
+    
+}
+ul {
+    background-color: #f5f4f4d0;
+    height: 100vh;
+    margin: 5% 5%;
+    display: block;
+    padding: 5em 5em;
+    font-size: 20px;
+}
+li {
+    padding: 10px 0;
+    
+    list-style-position:inside;
+    
+}
+a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
